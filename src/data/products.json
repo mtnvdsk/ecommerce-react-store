@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Blue-T-Shirt",
+        "image": "blue-tshirt.jpeg"
+    },
+    {
+        "id": 2,
+        "name": "Red-Hoodie",
+        "image": "red-hoodie.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Black-Jeans",
+        "image": "black-jeans.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "White-Sneakers",
+        "image": "white-sneakers.jpeg"
+    },
+    {
+        "id": 5,
+        "name": "Green-Jacket",
+        "image": "green-jacket.jpeg"
+    },
+    {
+        "id": 6,
+        "name": "Yellow-Cap",
+        "image": "yellow-cap.jpeg"
+    },
+    {
+        "id": 7,
+        "name": "Grey-Shorts",
+        "image": "grey-shorts.jpeg"
+    },
+    {
+        "id": 8,
+        "name": "Orange-Sweater",
+        "image": "orange-sweater.jpeg"
+    },
+    {
+        "id": 9,
+        "name": "Purple-Scarf",
+        "image": "purple-scarf.jpeg"
+    },
+    {
+        "id": 10,
+        "name": "Brown-Boots",
+        "image": "brown-boots.jpeg"
+    }
+]
